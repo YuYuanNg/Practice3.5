@@ -67,5 +67,8 @@
 #### 6. Command to push image into ECR.
        
         docker push <account no.>.dkr.ecr.ap-southeast-1.amazonaws.com/<REPOSITORY_NAME>:latest
-      
+        
+### Deployment of ECR
+
+    Copy the url into the webpage.
 
