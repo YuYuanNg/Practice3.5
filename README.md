@@ -42,7 +42,7 @@
 
 ### Creation of image using Visual Code
 
-#### In Visual Code terminal, run the following comemnds. 
+#### In the Visual Code terminal, run the following comemnds. 
 
 #### 1. Command to build an image
     
@@ -69,5 +69,5 @@
         docker push <account no.>.dkr.ecr.ap-southeast-1.amazonaws.com/<REPOSITORY_NAME>:latest
         
 ### Deployment of ECR
-    - Copy the url into the webpage.
+    Copy the url into the webpage.
 
